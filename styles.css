@@ -1,0 +1,14 @@
+#logo {
+    width: 200px;
+
+}
+.mariem{
+    display: flex;
+    justify-content: center;
+    
+    
+   }
+.card-body{
+    background-color: #00ccb1;
+
+   }
